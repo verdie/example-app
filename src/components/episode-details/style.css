@@ -1,0 +1,40 @@
+.wrap-episode-details {
+  margin-top: 5em;
+}
+
+.list-characters-title {
+  text-align: center;
+  margin: 6em 0 2em;
+}
+
+.list-characters {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.list-characters-item {
+  justify-content: center;
+  margin: 0;
+  width: 150px;
+  list-style: none;
+  text-align: center;
+  margin: 0.2em;
+  padding: 0.2em;
+}
+
+.episode-character-link {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.episode-character-link:hover {
+  color: rgb(215, 178, 124);
+  font-weight: 600;
+}
+
+.episode-character-image {
+  max-width: 100%;
+}

@@ -1,0 +1,34 @@
+.wrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  position: fixed;
+  top: 0;
+}
+
+.wrap img{
+  padding-top: 0.5em;
+  height: 2em;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.list-item {
+  display: inline-block;
+  margin: 0 1em;
+  vertical-align: middle;
+}
+
+.list-item a{
+  text-decoration: none;
+  color: aliceblue;
+  font-weight: 600;
+}
+
+.list-item a:hover{
+  color: antiquewhite;
+}

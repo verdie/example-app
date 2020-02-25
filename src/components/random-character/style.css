@@ -1,0 +1,16 @@
+.random {
+  margin-top: 6em;
+  text-align: center;
+}
+
+.random-link {
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  background-color: rgb(242, 211, 169);
+  padding: 0.5em;
+}
+
+.random-link:hover {
+  background-color: rgb(238, 192, 128);
+}
